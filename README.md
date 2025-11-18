@@ -67,7 +67,6 @@ Event type configuration
 
 Priority tags (3 & 8)
 
-(Add your own screenshots here!)
 
 📁 Project Structure
 /screenshots
